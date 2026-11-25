@@ -1,6 +1,6 @@
 # Hi, I'm FCY
 
-我在香港讀過CS and an independent game developer.
+I studied Computer Science in Hong Kong and I'm an independent game developer.
 
 ## What I'm working on
 
