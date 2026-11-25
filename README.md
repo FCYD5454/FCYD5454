@@ -16,6 +16,8 @@ I studied Computer Science in Hong Kong and I'm an independent game developer.
 
 ## More projects
 
+- **[Audio to Text](https://github.com/FCYD5454/audio-to-text)** — local WhisperX pipeline for transcription, speaker diarization, Cantonese/Mandarin labeling, and Ollama summaries.
+- **[Image Comparison App](https://github.com/FCYD5454/image-comparison-app)** — local-first before/after image comparison tool. [Live demo](https://fcyd5454.github.io/image-comparison-app/)
 - **[Video Frame Extractor](https://github.com/FCYD5454/Video-Frame-Extractor)** — self-hosted Next.js tool for extracting frames from videos, with AI-assisted filtering and ZIP/video export.
 - **[Personal OS](https://github.com/FCYD5454/-OS)** — Obsidian-based self-reflection system built around guided prompts and dashboards.
 
