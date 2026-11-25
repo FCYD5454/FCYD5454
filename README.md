@@ -13,6 +13,7 @@ I studied Computer Science in Hong Kong and I'm an independent game developer.
 - **TimeStop: Dead City** — on hold.
 - **[DeepSeek Price Widget](https://github.com/FCYD5454/deepseek-price-widget)** — open-source Windows utility. [Latest release](https://github.com/FCYD5454/deepseek-price-widget/releases/latest)
 - **[PerfX](https://github.com/FCYD5454/PerfX)** — browser performance benchmark suite. [Live demo](https://clever-biscotti-659db7.netlify.app/)
+- **Real-time screen OCR and automation** — private tooling: Android mirroring over ADB/scrcpy, screen-region calibration, OpenCV template matching, and Tesseract OCR for live card-game UI state tracking and a HUD overlay.
 
 ## More projects
 
