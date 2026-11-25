@@ -1,25 +1,19 @@
-# Hi, I'm MDIARS
+# Hi, I'm FCY
 
-Hong Kong–based developer building small, focused Windows tools.
+I'm a Computer Science student in Hong Kong and an independent game developer. I'm currently building a Steam game.
 
-## Featured project
+## What I'm working on
 
-### [DeepSeek Price Widget](https://github.com/FCYD5454/deepseek-price-widget)
+- Building a Steam game.
+- **AI-assisted development and media.** I use AI tools to prototype ideas, troubleshoot code, and experiment with game art and animation. I test the results in Unity to see what actually works in the game.
 
-Floating desktop widget for DeepSeek API pricing — peak/off-peak detection with countdown, 16 currencies, 11 languages, tray icon and global hotkey.
+## Languages and tools
 
-![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square)
-![.NET](https://img.shields.io/badge/.NET%20Framework-4.8-512BD4?style=flat-square)
-![Release](https://img.shields.io/github/v/release/FCYD5454/deepseek-price-widget?style=flat-square)
+- **Game development:** Unity, C#, Godot, GDScript
+- **Automation and computer vision:** Python, OpenCV, Tesseract OCR
+- **Other programming languages:** JavaScript, C++
+- **Version control:** Git, GitHub
 
-[Download latest release](https://github.com/FCYD5454/deepseek-price-widget/releases/latest) · [Source code](https://github.com/FCYD5454/deepseek-price-widget)
+## Outside the code
 
-## Interests
-
-- Windows automation and desktop utilities
-- C# / PowerShell tooling
-- Localization and data-driven applications
-
-## Elsewhere
-
-- GitHub: [@FCYD5454](https://github.com/FCYD5454)
+I enjoy breaking down how story-driven games, RPGs, and visual novels use dialogue, exploration, and player choices to tell a story. Those ideas often become experiments in my own prototypes.
