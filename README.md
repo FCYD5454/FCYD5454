@@ -1,7 +1,5 @@
 # Hi, I'm FCY
 
-> What is my value?
-
 I studied Computer Science in Hong Kong and I'm an independent game developer.
 
 ## What I'm working on
