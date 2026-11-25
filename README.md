@@ -13,17 +13,20 @@ I studied Computer Science in Hong Kong and I'm an independent game developer.
 - **TimeStop: Dead City** — on hold.
 - **[DeepSeek Price Widget](https://github.com/FCYD5454/deepseek-price-widget)** — open-source Windows utility. [Latest release](https://github.com/FCYD5454/deepseek-price-widget/releases/latest)
 - **[PerfX](https://github.com/FCYD5454/PerfX)** — browser performance benchmark suite. [Live demo](https://clever-biscotti-659db7.netlify.app/)
-- **Real-time screen OCR and automation** — private tooling: Android mirroring over ADB/scrcpy, screen-region calibration, OpenCV template matching, and Tesseract OCR for live card-game UI state tracking and a HUD overlay.
-- **Diffusion model fine-tuning** — trained FLUX.1-dev LoRA adapters with ai-toolkit: 16-rank LoRA, mixed-resolution 512–1024 training, bf16 with EMA, checkpointing, and sample-based evaluation.
-- **ComfyUI automation suite** — advanced multi-instance ComfyUI workflows with a Gradio control panel: workflow library, parameter overrides, WebSocket queue tracking, GPU/VRAM management, batch history, and preset pipelines.
 
 ## More projects
 
-- **AI market research pipeline** — extended an open-source Reddit analysis tool with Gemini/DeepSeek provider adapters, batch cost controls, and a localized Streamlit dashboard.
 - **[Audio to Text](https://github.com/FCYD5454/audio-to-text)** — local WhisperX pipeline for transcription, speaker diarization, Cantonese/Mandarin labeling, and Ollama summaries.
 - **[Image Compare Lab](https://github.com/FCYD5454/image-comparison-app)** — before/after comparison workbench with DeltaE heatmaps, blink, channels, and layers. [Live demo](https://fcyd5454.github.io/image-comparison-app/)
 - **[Video Frame Extractor](https://github.com/FCYD5454/Video-Frame-Extractor)** — self-hosted Next.js tool for extracting frames from videos, with AI-assisted filtering and ZIP/video export.
 - **[Personal OS](https://github.com/FCYD5454/-OS)** — Obsidian-based self-reflection system built around guided prompts and dashboards.
+
+## Technical experience
+
+- **Real-time screen OCR and automation** — private tooling: Android mirroring over ADB/scrcpy, screen-region calibration, OpenCV template matching, and Tesseract OCR for live card-game UI state tracking and a HUD overlay.
+- **Diffusion model fine-tuning** — trained a FLUX.1-dev LoRA adapter with ai-toolkit: 16-rank LoRA, mixed-resolution 512–1024 training, bf16 with EMA, checkpointing, and sample-based evaluation.
+- **ComfyUI automation suite** — advanced multi-instance ComfyUI workflows with a Gradio control panel: workflow library, parameter overrides, WebSocket queue tracking, GPU/VRAM management, batch history, and preset pipelines.
+- **AI market research pipeline** — extended an open-source Reddit analysis tool with Gemini/DeepSeek provider adapters, batch cost controls, and a localized Streamlit dashboard.
 
 ## Languages and tools
 
