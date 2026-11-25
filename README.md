@@ -1,6 +1,6 @@
 # Hi, I'm FCY
 
-I'm a Computer Science student in Hong Kong and an independent game developer. I'm currently developing **Campus Rebirth**.
+我在香港讀過CS and an independent game developer.
 
 ## What I'm working on
 
