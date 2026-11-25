@@ -9,7 +9,6 @@ I studied Computer Science in Hong Kong and I'm an independent game developer.
 
 ## Projects
 
-- **Campus Rebirth** — in development.
 - **TimeStop: Dead City** — on hold.
 - **[DeepSeek Price Widget](https://github.com/FCYD5454/deepseek-price-widget)** — open-source Windows utility. [Latest release](https://github.com/FCYD5454/deepseek-price-widget/releases/latest)
 - **[PerfX](https://github.com/FCYD5454/PerfX)** — browser performance benchmark suite. [Live demo](https://clever-biscotti-659db7.netlify.app/)
