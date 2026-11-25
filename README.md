@@ -17,6 +17,7 @@ I studied Computer Science in Hong Kong and I'm an independent game developer.
 
 ## More projects
 
+- **AI market research pipeline** — extended an open-source Reddit analysis tool with Gemini/DeepSeek provider adapters, batch cost controls, and a localized Streamlit dashboard.
 - **[Audio to Text](https://github.com/FCYD5454/audio-to-text)** — local WhisperX pipeline for transcription, speaker diarization, Cantonese/Mandarin labeling, and Ollama summaries.
 - **[Image Compare Lab](https://github.com/FCYD5454/image-comparison-app)** — before/after comparison workbench with DeltaE heatmaps, blink, channels, and layers. [Live demo](https://fcyd5454.github.io/image-comparison-app/)
 - **[Video Frame Extractor](https://github.com/FCYD5454/Video-Frame-Extractor)** — self-hosted Next.js tool for extracting frames from videos, with AI-assisted filtering and ZIP/video export.
