@@ -15,7 +15,7 @@ I studied Computer Science in Hong Kong and I'm an independent game developer.
 - **[PerfX](https://github.com/FCYD5454/PerfX)** — browser performance benchmark suite. [Live demo](https://clever-biscotti-659db7.netlify.app/)
 - **Real-time screen OCR and automation** — private tooling: Android mirroring over ADB/scrcpy, screen-region calibration, OpenCV template matching, and Tesseract OCR for live card-game UI state tracking and a HUD overlay.
 - **Diffusion model fine-tuning** — trained FLUX.1-dev LoRA adapters with ai-toolkit: 16-rank LoRA, mixed-resolution 512–1024 training, bf16 with EMA, checkpointing, and sample-based evaluation.
-- **ComfyUI automation suite** — Gradio control panel for multi-instance ComfyUI: workflow library, parameter overrides, WebSocket queue tracking, GPU/VRAM management, batch history, and preset pipelines.
+- **ComfyUI automation suite** — advanced multi-instance ComfyUI workflows with a Gradio control panel: workflow library, parameter overrides, WebSocket queue tracking, GPU/VRAM management, batch history, and preset pipelines.
 
 ## More projects
 
@@ -28,6 +28,7 @@ I studied Computer Science in Hong Kong and I'm an independent game developer.
 ## Languages and tools
 
 - **Game development:** Unity, C#, Godot, GDScript
+- **AI media and diffusion:** ComfyUI, FLUX.1-dev, LoRA training, ai-toolkit, Gradio
 - **Automation and computer vision:** Python, OpenCV, Tesseract OCR
 - **Other programming languages:** JavaScript, C++
 - **Version control:** Git, GitHub
