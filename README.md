@@ -2,6 +2,8 @@
 
 I studied Computer Science in Hong Kong and I'm an independent game developer.
 
+[Portfolio](https://fcyd5454.github.io/) — projects, experience, and a bit about me.
+
 ## What I'm working on
 
 - **Campus Rebirth** — in development.
