@@ -36,4 +36,8 @@ I studied Computer Science in Hong Kong and I'm an independent game developer.
 
 ## Outside the code
 
-I enjoy breaking down how story-driven games, RPGs, and visual novels use dialogue, exploration, and player choices to tell a story. Those ideas often become experiments in my own prototypes.
+I love stories that make me think back to a scene I barely noticed the first time. I couldn't put down 《天才俱樂部》 because every answer gave me a new question. I’m also drawn to sci-fi that plays with time, like *Steins;Gate* and *Quantum Break*. My favorite kind of plot twist is the one that makes me go back to an early scene and think, “Wait, they told me the answer right there, didn’t they?”
+
+I love *Cyberpunk: Edgerunners* for a different reason: it made me care enough about its characters to want to spend more time in their world. That’s part of why I enjoy experimenting with character art and short animations. I’d like to make an animated short that works as a story on its own, but leaves you curious enough to explore the same world in a game.
+
+Away from screens, I like reading and finding new places to sit down with a book. I’d love to travel more, meet people from different places, and get a feel for what everyday life is like there.
