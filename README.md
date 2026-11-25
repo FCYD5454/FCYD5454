@@ -27,11 +27,12 @@ I studied Computer Science in Hong Kong and I'm an independent game developer.
 
 ## Languages and tools
 
-- **Game development:** Unity, C#, Godot, GDScript
-- **AI media and diffusion:** ComfyUI, FLUX.1-dev, LoRA training, ai-toolkit, Gradio
-- **Automation and computer vision:** Python, OpenCV, Tesseract OCR
-- **Other programming languages:** JavaScript, C++
-- **Version control:** Git, GitHub
+- **Languages:** C#, Python, TypeScript, JavaScript, C++, GDScript, PowerShell
+- **Game development:** Unity, Godot
+- **AI and diffusion:** ComfyUI, FLUX.1-dev, ai-toolkit, LoRA training, PyTorch, WhisperX, Ollama, TensorFlow.js
+- **Web and desktop:** WPF/.NET, React, Next.js, Vite, Node.js, Express, Tailwind CSS, Gradio
+- **Automation and vision:** OpenCV, Tesseract OCR, ADB/scrcpy, WebSocket
+- **Data and tools:** SQLite, REST APIs, Git, GitHub
 
 ## Outside the code
 
