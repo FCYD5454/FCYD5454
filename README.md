@@ -4,24 +4,14 @@ I'm a Computer Science student in Hong Kong and an independent game developer. I
 
 ## What I'm working on
 
-- **Campus Rebirth** — a story-driven campus life simulation in Godot 4.7 / GDScript, focused on a four-year Computer Science storyline. Lessons, events and UI are JSON-driven, with per-locale text overlays.
+- **Campus Rebirth** — in development.
 - **AI-assisted development and media.** I use AI tools to prototype ideas, troubleshoot code, and experiment with game art and animation. I test the results in the game to see what actually works.
 
 ## Projects
 
-### Campus Rebirth — in development
-
-Godot 4.7 · GDScript · Data-driven · Localization
-
-A four-year campus life simulation built around a Computer Science storyline. Lessons, events and UI are JSON-driven, with per-locale text overlays.
-
-### On hold
-
-- **TimeStop: Dead City** — a Unity 6 / C# time-stop game prototype. Development is currently paused.
-
-### Open source
-
-- **[DeepSeek Price Widget](https://github.com/FCYD5454/deepseek-price-widget)** — Windows floating widget for DeepSeek API pricing. 16 currencies, 11 languages, WPF / .NET. [Latest release](https://github.com/FCYD5454/deepseek-price-widget/releases/latest)
+- **Campus Rebirth** — in development.
+- **TimeStop: Dead City** — on hold.
+- **[DeepSeek Price Widget](https://github.com/FCYD5454/deepseek-price-widget)** — open-source Windows utility. [Latest release](https://github.com/FCYD5454/deepseek-price-widget/releases/latest)
 
 ## Languages and tools
 
